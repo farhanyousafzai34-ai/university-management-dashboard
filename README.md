@@ -1,2 +1,10 @@
-# university-management-dashboard
-A sleek University Management Dashboard for tracking lectures, quizzes, assignments, and progress
+# University Management Dashboard
+
+A beautiful cyberpunk-style dashboard to track lectures, quizzes, GDBs, assignments and academic progress.
+
+## How to Run
+
+```bash
+npm install
+npm run dev
+```
